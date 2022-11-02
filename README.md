@@ -1,25 +1,11 @@
 # stock_exchange_app
 
 
+<p align="left">
 
+  <h3 align="left">Basalt Stoker</h3>
 
-
-<p align="center">
-
-  <h3 align="center">Basalt Stoker</h3>
-
-  <p align="center">
-  Test application to consume market stack api
-    <p />
-</p>
-
-
-
-<p align="center">
-
-  <h3 align="center">Basalt Stoker</h3>
-
-  <p align="center">
+  <p align="left">
   Test application to consume market stack api
     <p />
 </p>
@@ -44,17 +30,21 @@ git clone https://github.com/crataristo4/stock-exchange-app.git
 
 Screenshot
 <p align="middle">
-  <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/1.png" height = "600" width="300" title="Home page"/>
+  <h3 align="middle">Home page</h3>
+  <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/1.png" height = "600" width="300" />
 </p>
 
 <p align="middle">
-  <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/6.png" height = "600" width="300" title="Filter by date"/>
+  <h3 align="middle">Filter by date</h3>
+  <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/6.png" height = "600" width="300" title=""/>
 </p>
 <p align="middle">
+    <h3 align="middle">Date selection</h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/2.png" height = "600" width="300" />
 </p>
 <p align="middle">
-  <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/3.png" height = "600" width="300" title="Auto complete"/>
+      <h3 align="middle">Auto complete</h3>
+  <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/3.png" height = "600" width="300"/>
 </p>
 <p align="middle">
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/4.png" height = "600" width="300"/>
