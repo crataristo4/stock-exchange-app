@@ -27,20 +27,20 @@ git clone https://github.com/crataristo4/stock-exchange-app.git
 
 Screenshot
 <p align="middle">
-  <h3 align="middle">Home page</h3>
+  <h3>Home page</h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/1.png" height = "600" width="300" />
 </p>
 
 <p align="middle">
-  <h3 align="middle">Filter by date</h3>
+  <h3>Filter by date</h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/6.png" height = "600" width="300" title=""/>
 </p>
 <p align="middle">
-    <h3 align="middle">Date selection</h3>
+    <h3>Date selection</h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/2.png" height = "600" width="300" />
 </p>
 <p align="middle">
-      <h3 align="middle">Auto complete</h3>
+      <h3 >Auto complete</h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/3.png" height = "600" width="300"/>
 </p>
 <p align="middle">
