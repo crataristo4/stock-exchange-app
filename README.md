@@ -1,14 +1,11 @@
 # stock_exchange_app
 
 
-<p align="left">
 
-  <h3 align="left">Basalt Stoker</h3>
+ <h3 align="left">Basalt Stoker</h3>
 
-  <p align="left">
-  Test application to consume market stack api
-    <p />
-</p>
+ <p align="left">Test application to consume market stack api <p />
+
 
 Features
 *Get random companies from API
