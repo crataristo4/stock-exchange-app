@@ -40,16 +40,16 @@ Screenshot
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/2.png" height = "600" width="300" />
 </p>
 <p align="middle">
-      <h3 >Auto complete</h3>
+   <h3>Auto complete</h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/3.png" height = "600" width="300"/>
 </p>
 <p align="middle">
- <h3 >Notify user when offline/h3>
+   <h3 >Notify user when offline/h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/4.png" height = "600" width="300"/>
 </p>
 
 <p align="middle">
-  <h3 >Details/h3>
+   <h3 >Details/h3>
   <img src="https://github.com/crataristo4/stock-exchange-app/blob/main/screenshots/5.png" height = "600" width="300"/>
 </p>
 
